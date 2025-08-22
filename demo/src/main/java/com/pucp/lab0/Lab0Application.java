@@ -16,5 +16,6 @@ public class Lab0Application {
 		for (String s : lista) {
 			System.out.println("elemento: " + s);
 		}
+		System.out.println("API para creacion de mascota");
 	}
 }
